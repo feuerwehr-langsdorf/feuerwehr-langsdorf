@@ -4,7 +4,7 @@
 
 ![Logo](img/LogoFFwLangsdorf.png){:width="72px"}
 
-**Am Samstag, den 9.1.2021 werden in Langsdorf die Weihnachsbäumer von der Jugendfeuerwehr abgeholt.**
+**Am Samstag, den 9.1.2021 werden in Langsdorf die Weihnachsbäume von der Jugendfeuerwehr abgeholt.**
 
 Die Freiwillige Feuerwehr Langsdorf stellt mit über 30 Aktiven die größte Ortsteilwehr der Feuerwehren der Stadt Lich.
 
