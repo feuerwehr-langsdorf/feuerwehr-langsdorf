@@ -6,6 +6,9 @@
 
 **Am Samstag, den 9.1.2021 werden in Langsdorf die Weihnachsbäume von der Jugendfeuerwehr abgeholt.**
 
+**Minifeuerwehr**: Aufgrund der der aktuellen Corona-Pandemie finden bis auf Weiters keine Übungen oder sonstige Veranstaltungen der Minifeuerwehr statt.
+Sobald der Übungsbetrieb wieder aufgenommen wird, werden die Mitglieder hierüber persönlich in Kenntnis gesetzt.
+
 Die Freiwillige Feuerwehr Langsdorf stellt mit über 30 Aktiven die größte Ortsteilwehr der Feuerwehren der Stadt Lich.
 
 Eine Übersicht zu den bisherigen Einsätzten findet sich auf der [Webseite der Feuerwehren der Stadt Lich](https://feuerwehr.lich.de/einsaetze) oder der [Webseite der Einsatzabteilung der Kernstadt](https://ffw-lich.de/einsaetze.html) der Einsatzabteilung der Kernstadt.
