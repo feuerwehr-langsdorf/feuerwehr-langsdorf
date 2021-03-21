@@ -4,7 +4,7 @@
 
 Auf dieser Seite finden sich Downloads von Einsatzabteilung und Verein
 
-[Übungsplan Einsatzabteilung](downloads/2021ÜbungsplanEinsatzabteilung.pdf)
+[Übungsplan Einsatzabteilung](downloads/2021ÜbungsplanEinsatzabteilung.pdf)
 
 [Übungsplan Jugendfeuerwehr](downloads/2021ÜbungsplanJfw.pdf)
 
