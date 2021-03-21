@@ -4,8 +4,6 @@
 
 ![Logo](img/LogoFFwLangsdorf.png){:width="72px"}
 
-**Am Samstag, den 9.1.2021 werden in Langsdorf die Weihnachsbäume von der Jugendfeuerwehr abgeholt.**
-
 **[Minifeuerwehr](downloads/2021Aushang_Corona_Miniffw_Jan_2021.pdf)**: Aufgrund der der aktuellen Corona-Pandemie finden bis auf Weiters keine Übungen oder sonstige Veranstaltungen der Minifeuerwehr statt.
 Sobald der Übungsbetrieb wieder aufgenommen wird, werden die Mitglieder hierüber persönlich in Kenntnis gesetzt.
 
