@@ -6,7 +6,7 @@ Auf dieser Seite finden sich Downloads von Einsatzabteilung und Verein
 
 [Übungsplan Einsatzabteilung](downloads/2021UebungsplanEinsatzabteilung.pdf)
 
-[Übungsplan Jugendfeuerwehr](downloads/2020UebungsplanJfw.pdf)
+[Übungsplan Jugendfeuerwehr](downloads/JFWPlan2021.pdf)
 
 [Hinweis Übungsbetrieb Minifeuerwehr](downloads/2021Aushang_Corona_Miniffw_Jan_2021.pdf)
 
