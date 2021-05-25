@@ -30,9 +30,6 @@ Soweit von dieser Website auf andere Websites Links gelegt sind, wird darauf hin
 
 4. Datenschutz
 Für den Betrieb dieser Website werden personenbezogene Daten gem. Datenschutz-Grundverordnung (DSGVO) verarbeitet.
-
 Nach Maßgabe des Art. 32, DSGVO werden geeignete technische und organisatorische Schutzmaßnahmen getroffen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten. Es wird darauf hingewiesen, dass hinsichtlich der Datenübertragung über das Internet (z.B. bei der Kommunikation per E-Mail) keine sichere Übertragung gewährleistet werden kann. Empfindliche Daten sollten daher entweder gar nicht oder nur über eine sichere Verbindung (SSL) übertragen werden.
-
 Die vom Herausgeber in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz, Datenbankdienste, Sicherheitsleistungen und technische Wartungsleistungen, die zum Zwecke des Betriebs dieser Website einsetzen.
-
 Der Herausgeber bzw. der Hostinganbieter, erhebt auf Grundlage des berechtigten Interesses im Sinne des Art. 6, Abs. 1, DSGVO Daten über jeden Besucher dieses Onlineangebotes. Hierzu zählen u.a. Datum, Uhrzeit, IP-Adresse, ungefährer Ort des Internetanschlusses, verwendetes Betriebssystem, Browsertyp und -version, Sprache sowie die Website von der der Zugriff erfolgte.
