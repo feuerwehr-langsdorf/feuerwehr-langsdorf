@@ -1,11 +1,13 @@
-|[Home](index.md)|[Kontakte](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
+|[Home](index.md)|[Kontakte/Abteilungen](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
 
-# Downloads 
+# Downloads
 
 Auf dieser Seite finden sich Downloads von Einsatzabteilung und Verein
 
-[Übungsplan Einsatzabteilung](downloads/2020ÜbungsplanEinsatzabteilung.pdf)
+[Übungsplan Einsatzabteilung](downloads/2021UebungsplanEinsatzabteilung.pdf)
 
-[Übungsplan Jugendfeuerwehr](downloads/2020ÜbungsplanJfw.pdf)
+[Übungsplan Jugendfeuerwehr](downloads/JFWPlan2021.pdf)
 
-[Infos Minifeuerwehr](downloads/2021Aushang_Corona_Miniffw_Jan_2021.pdf) (Übungen finden momentan nicht statt)
+[Hinweis Übungsbetrieb Minifeuerwehr](downloads/2021Aushang_Corona_Miniffw_Jan_2021.pdf)
+
+[Antrag Mitgliedschaft](downloads/FFW_Mitgliedsantrag.pdf)

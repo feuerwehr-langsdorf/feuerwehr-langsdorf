@@ -1,8 +1,8 @@
 ## Webseite der Freiwilligen Feuerwehr Langsdorf
 
-https://kuczera.github.io/feuerwehr-langsdorf/
+https://feuerwehr-langsdorf.github.io/feuerwehr-langsdorf/
 
-You can use the [editor on GitHub](https://github.com/kuczera/feuerwehr-langsdorf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/feuerwehr-langsdorf/feuerwehr-langsdorf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

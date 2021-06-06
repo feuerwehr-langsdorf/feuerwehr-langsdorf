@@ -1,15 +1,8 @@
-|[Home](index.md)|[Kontakte](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
+|[Home](index.md)|[Kontakte/Abteilungen](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
 
 # Home 
 
 ![Logo](img/LogoFFwLangsdorf.png){:width="72px"}
-
-**[Minifeuerwehr](downloads/2021Aushang_Corona_Miniffw_Jan_2021.pdf)**: Aufgrund der der aktuellen Corona-Pandemie finden bis auf Weiters keine Übungen oder sonstige Veranstaltungen der Minifeuerwehr statt.
-Sobald der Übungsbetrieb wieder aufgenommen wird, werden die Mitglieder hierüber persönlich in Kenntnis gesetzt.
-
-Die Freiwillige Feuerwehr Langsdorf stellt mit über 30 Aktiven die größte Ortsteilwehr der Feuerwehren der Stadt Lich.
-
-Eine Übersicht zu den bisherigen Einsätzten findet sich auf der [Webseite der Feuerwehren der Stadt Lich](https://feuerwehr.lich.de/einsaetze) oder der [Webseite der Einsatzabteilung der Kernstadt](https://ffw-lich.de/einsaetze.html) der Einsatzabteilung der Kernstadt.
 
 Die Freiwillige Feuerwehr Langsdorf ist wohl eine der vielseitigsten Institutionen, die unser Dorf zu bieten hat: Sie leistet Hilfe wenn es brennt oder zu einem Unfall gekommen ist, sie hat jeder Generation - von der Alters- und Ehrenabteilung bis zur Minifeuerwehr - etwas zu bieten. Außerdem ist sie ein wichtiger Bestandteil des Dorflebens, da sie regelmäßig die Kirmes, das Brunnenfest und andere Festivitäten ausrichtet.
 
@@ -22,6 +15,3 @@ Bei der <a href="https://feuerwehr.lich.de/jf-langsdorf">Jugendfeuerwehr</a>, di
 Für die Förderung der Feuerwehr- und Jugendarbeit sowie des Dorflebens ist der Feuerwehrverein Freiwillige Feuerwehr Langsdorf e.V. zuständig. Mit viel Engagement und Organisationstalent wird in jedem zweiten Jahr die Kirmes bzw. das Brunnenfest organisiert, damit die Geselligkeit innerhalb der Feuerwehr und in unserem Dorf auch in Zukunft nicht zu kurz kommt. Darüber hinaus organisiert der Verein aus diverse Ausflugsfahrten und Wanderungen. Die Zusammenarbeit mit anderen Institutionen und Vereinen steht ebenfalls im Fokus.
 
 Für alle Fragen rund um die Feuerwehr können Sie sich zunächst an den Wehrführer Oliver Schauermann (Tel.: 0170 – 4599822) sowie bei Vereinsangelegenheiten an den Vorsitzenden Daniel Jung (Tel.: 0172 - 6169024) wenden.
-
-
-
