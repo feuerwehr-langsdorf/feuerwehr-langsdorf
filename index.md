@@ -18,7 +18,7 @@ Bei der <a href="https://feuerwehr.lich.de/jf-langsdorf">Jugendfeuerwehr</a>, di
 
 Für die Förderung der Feuerwehr- und Jugendarbeit sowie des Dorflebens ist der Feuerwehrverein Freiwillige Feuerwehr Langsdorf e.V. zuständig. Mit viel Engagement und Organisationstalent wird in jedem zweiten Jahr die Kirmes bzw. das Brunnenfest organisiert, damit die Geselligkeit innerhalb der Feuerwehr und in unserem Dorf auch in Zukunft nicht zu kurz kommt. Darüber hinaus organisiert der Verein aus diverse Ausflugsfahrten und Wanderungen. Die Zusammenarbeit mit anderen Institutionen und Vereinen steht ebenfalls im Fokus.
 
-Für alle Fragen rund um die Feuerwehr können Sie sich zunächst an den Wehrführer Oliver Schauermann (Tel.: 0170 – 4599822) sowie bei Vereinsangelegenheiten an den Vorsitzenden Daniel Jung (Tel.: 0172 - 6169024) wenden.
+Für alle Fragen rund um die Feuerwehr können Sie sich zunächst an den Wehrführer sowie bei Vereinsangelegenheiten an den Vorsitzenden des Feuerwehrvereins wenden.
 
 
 
