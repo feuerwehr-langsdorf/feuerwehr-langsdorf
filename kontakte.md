@@ -4,9 +4,9 @@
 
 |Nico Baumann |Wehrführer |wehrfuehrung.langsdorf@feuerwehr.lich.de |||
 |Oliver Schauermann |Stellvertretender Wehrführer |wehrfuehrung.langsdorf@feuerwehr.lich.de || +491608452105 |
-|Daniel Jung |1. Vorsitzender Verein |d.jung-lich@t-online.de|06404/668333 |0172/6169024|
-|Tobias Schäfer |2. Vorsitzender Verein ||06404/928687 |0170/3630568|
-|Max Mückstein |Jugendfeuerwehrwart |jugendfeuerwehr.langsdorf@feuerwehr.lich.de ||0172/7815077|
+|Daniel Jung |1. Vorsitzender Verein |d.jung-lich@t-online.de|06404/668333 |+491726169024|
+|Tobias Schäfer |2. Vorsitzender Verein ||06404/928687 |+491703630568|
+|Max Mückstein |Jugendfeuerwehrwart |jugendfeuerwehr.langsdorf@feuerwehr.lich.de ||+491727815077|
 |Mika Angrabeit |Stellvertretender Jugendfeuerwehrwart |jugendfeuerwehr.langsdorf@feuerwehr.lich.de |||
 |Petra Baumann |Minifeuerwehrwart |minifeuerwehr.langsdorf@feuerwehr.lich.de |||
 
